@@ -11,6 +11,8 @@
   <a href="https://t.me/ojanamkBot"><img src="https://img.shields.io/badge/Telegram-Join-blue?style=flat-square&logo=telegram"></a>
 </p>
 
+---
+
 ## 💫 About Me
 ```yaml
 Name: Md.Kawsar
