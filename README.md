@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;Bug+Bounty+Hunter;Reverse+Engineer;Tech+Lover+from+Bangladesh&center=true&width=500&height=45&color=0e99c2&vCenter=true&size=22"> </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=0e99c2&width=600&lines=Software+Developer;Bug+Bounty+Hunter;Tech+Enthusiast;Open+Source+Contributor" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=0e99c2&width=600&lines=Software+Developer;Bug+Bounty+Hunter;Tech+Enthusiast;Open+Source+Contributor"/>
 </p>
 
 <div align="center">
