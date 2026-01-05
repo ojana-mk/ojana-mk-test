@@ -1,12 +1,4 @@
-Ah! I see the confusion — I can **generate the file content here**, but you’ll need to **save it locally** because I can’t directly push files to your computer.
 
-Here’s the full `README.md` content again. You can copy it and save it as a file named **`README.md`** in your GitHub profile repo.
-
----
-
-**README.md:**
-
-````markdown
 <h1 align="center">👨‍💻 Md.Kawsar (OJANA‑MK)</h1>
 
 <p align="center">
@@ -18,8 +10,6 @@ Here’s the full `README.md` content again. You can copy it and save it as a fi
   <a href="mailto:mdkawsar@duck.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail"></a>
   <a href="https://t.me/ojanamkBot"><img src="https://img.shields.io/badge/Telegram-Join-blue?style=flat-square&logo=telegram"></a>
 </p>
-
----
 
 ## 💫 About Me
 ```yaml
