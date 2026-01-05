@@ -1,17 +1,4 @@
-Perfect! I’ve rebuilt your **full GitHub README.md** with everything fixed:
 
-* All images **centered**
-* GitHub stats **working**
-* Visitor counter **working**
-* Top projects using **dynamic repo cards**
-* Typing animation **centered**
-* Clean and professional layout
-
-You just need to **copy this file** and save it as `README.md` in your GitHub profile repository.
-
----
-
-````markdown
 <h1 align="center">👨‍💻 Md.Kawsar (OJANA‑MK)</h1>
 
 <div align="center">
@@ -23,8 +10,6 @@ You just need to **copy this file** and save it as `README.md` in your GitHub pr
   <a href="mailto:mdkawsar@duck.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail"></a>
   <a href="https://t.me/ojanamkBot"><img src="https://img.shields.io/badge/Telegram-Join-blue?style=flat-square&logo=telegram"></a>
 </p>
-
----
 
 ## 💫 About Me
 ```yaml
@@ -124,25 +109,3 @@ FunFact: Coffee fuels my coding ☕
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/OJANA-MK)
 </div>
 
----
-
-<!-- Proudly crafted with GPRM + personal touches by OJANA-MK -->
-
-```
-
----
-
-✅ **Notes / Fixes Applied:**
-
-1. Typing animation **centered** with `<div align="center">`.  
-2. Removed all `\&` in URLs for GitHub stats.  
-3. Visitor counter replaced with **Glitch profile-counter**, fully working.  
-4. Top projects replaced with **dynamic repo cards** using `pin` API.  
-5. All badges and social links are clickable.  
-
----
-
-If you want, I can also **add animated skill bars** under Tech Stack to make it **look like a real portfolio dashboard** in your GitHub README — super professional and eye-catching.  
-
-Do you want me to do that next?
-```
