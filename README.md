@@ -1,6 +1,8 @@
 
 <h1 align="center">👨‍💻 Md.Kawsar (OJANA‑MK)</h1>
 
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Developer;Bug+Bounty+Hunter;Reverse+Engineer;Tech+Lover+from+Bangladesh&center=true&width=500&height=45&color=0e99c2&vCenter=true&size=22"> </p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=0e99c2&width=600&lines=Software+Developer;Bug+Bounty+Hunter;Tech+Enthusiast;Open+Source+Contributor" alt="Typing Animation"/>
 </p>
@@ -82,7 +84,7 @@ FunFact: Coffee fuels my coding ☕
 
 ## 🔝 Top Projects
 
-[![Portfolio](https://github-contributor-stats.vercel.app/api?username=OJANA-MK\&limit=5\&theme=dark\&combine_all_yearly_contributions=true)](https://github.com/OJANA-MK?tab=repositories)
+[![Top Projects](https://github-contributor-stats.vercel.app/api?username=OJANA-MK&limit=5&theme=dark&combine_all_yearly_contributions=true)](https://github.com/OJANA-MK?tab=repositories)
 
 ---
 
