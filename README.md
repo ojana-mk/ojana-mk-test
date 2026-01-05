@@ -7,6 +7,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=0e99c2&width=600&lines=Software+Developer;Bug+Bounty+Hunter;Tech+Enthusiast;Open+Source+Contributor" alt="Typing Animation"/>
 </p>
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=0e99c2&width=600&lines=Software+Developer;Bug+Bounty+Hunter;Tech+Enthusiast;Open+Source+Contributor" alt="Typing Animation"/>
+</div>
+
+
 <p align="center">
   <a href="https://ojana-mk.xyz"><img src="https://img.shields.io/badge/Website-Visit-blue?style=flat-square&logo=Google-Chrome"></a>
   <a href="mailto:mdkawsar@duck.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail"></a>
