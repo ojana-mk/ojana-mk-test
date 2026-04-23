@@ -46,6 +46,10 @@
 
 ## 🚀 Featured Projects
 
+<p align="center">
+  <img src="https://i.ibb.co.com/vxRwFjtJ/smartdevzone-web.png" alt="MD-KAWSAR" />
+</p>
+
 - 🔹 **E-commerce App** – MERN stack full-featured app  
 - 🔹 **Chat App** – Real-time messaging using Socket.io  
 - 🔹 **Android App** – Firebase-based mobile application  
