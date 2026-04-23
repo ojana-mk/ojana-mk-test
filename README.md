@@ -8,12 +8,9 @@
 <h3 align="center">Full Stack Android & Web Application Developer</h3>
 
 <!-- 🔥 Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Android+App+Developer;Golang+Backend+Developer&center=true&width=700&height=70&fontSize=50">
-</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Android+App+Developer;Golang+Backend+Developer&center=true&width=500&height=50&size=30" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Android+App+Developer;Golang+Backend+Developer&center=true&width=500&height=50&size=35" />
 </p>
 
 ---
