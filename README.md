@@ -35,11 +35,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ojana-mk&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-kawsar&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ojana-mk&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=md-kawsar&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojana-mk&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -55,8 +55,14 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR">
+  <a href="https://linkedin.com/in/md-kawsar">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+<a href="https://linkedin.com/in/md-kawsar">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook" />
+  </a>
+<a href="https://linkedin.com/in/md-kawsar">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=livechat" />
   </a>
 </p>
 
