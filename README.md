@@ -12,6 +12,10 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Android+App+Developer;Golang+Backend+Developer&center=true&width=700&height=70&fontSize=50">
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Android+App+Developer;Golang+Backend+Developer&center=true&width=500&height=50&size=30" />
+</p>
+
 ---
 
 ## 🚀 About Me
