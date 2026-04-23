@@ -1,7 +1,7 @@
 
 <!-- 🔷 Banner -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=md-kawsar" alt="MD KAWSAR Banner" />
+  <img src="https://i.ibb.co.com/5hZjv40Z/mdkawsar-cover.jpg" alt="MD-KAWSAR" />
 </p>
 
 <h1 align="center">Hi 👋, I'm MD. Kawsar</h1>
