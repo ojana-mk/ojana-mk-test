@@ -26,7 +26,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express,firebase,android,java,js" />
+  <img src="https://skillicons.dev/icons?i=react,flutter,go,php,mysql, supabase,mongodb,express,firebase,android,java,js" />
 </p>
 
 ---
@@ -59,10 +59,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
 <a href="https://linkedin.com/in/md-kawsar">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook" />
+    <img src="https://img.shields.io/badge/Facebook-navyblue?style=for-the-badge&logo=facebook" />
   </a>
 <a href="https://linkedin.com/in/md-kawsar">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=livechat" />
+    <img src="https://img.shields.io/badge/Livechat-orange?style=for-the-badge&logo=livechat" />
   </a>
 </p>
 
