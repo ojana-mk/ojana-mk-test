@@ -26,7 +26,7 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,flutter,go,php,mysql, supabase,mongodb,express,firebase,android,java,js" />
+  <img src="https://skillicons.dev/icons?i=react,flutter,go,php,mysql,mongodb,express,firebase,android,java,js" />
 </p>
 
 ---
