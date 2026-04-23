@@ -10,7 +10,7 @@
 
 </p-->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Golang+Backend+Developer;React+Frontend+Developer;Android+App+Developer;Building+Scalable+Systems&center=true&width=600&height=60&size=28" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Golang+Backend+Developer;React+Frontend+Developer;Flutter+App+Developer; Golang+Backend+Developer;Building+Scalable+Systems&center=true&width=600&height=60&size=30" />
 </p>
 
 ---
