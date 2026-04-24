@@ -40,19 +40,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ojana-mk&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ojana-mk&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojana-mk&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🚀 Featured Projects
 
 - 🔹 **SmartDevZone** – [React - Golang - AI Automation - AI Chatbot ]
@@ -91,6 +78,19 @@
 
 <p align="center">
   <img src="https://i.ibb.co.com/5x6xmTkz/feni-government-collage.jpg" alt="MD-KAWSAR" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ojana-mk&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ojana-mk&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ojana-mk&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
